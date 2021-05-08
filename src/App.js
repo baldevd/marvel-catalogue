@@ -179,7 +179,7 @@ function App() {
             <div className="signout-button-container">
               <Button variant='primary' onClick={signOut}>Sign Out</Button>
             </div>
-            <div className="search-box-container"> Search for something
+            <div className="search-box-container">
               <Search search={search} />
             </div>
             <div className="radio-buttons-container">
