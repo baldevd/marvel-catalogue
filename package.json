@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/baldevd/marvel-catalogue",
-  "name": "my-app",
+  "homepage": "http://baldevd.github.io/marvel-catalogue",
+  "name": "marvel-catalogue",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
